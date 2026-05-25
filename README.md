@@ -23,10 +23,6 @@ import seaborn as sns
 
 #Estructura de carpetas
 
-/proyecto-aqualimpia
-│
-├── data/              # Archivos de datos originales y procesados
-├── notebooks/         # Scripts y cuadernos de análisis (Jupyter)
-├── models/            # Modelos entrenados guardados (formato .joblib)
-├── outputs/           # Gráficos y reportes generados
-└── README.md          # Documentación del proyecto
+- data: Aqui van los CSV.
+- scripts: Aqui va el codigo, archivos por separado con codigo y funciones.
+- resultados: documentos con los resultados, informes por ejemplo
